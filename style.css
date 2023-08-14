@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+   background-color: black;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: yellow;
+}
+
+p {
+    color: aqua;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+    color: aqua;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    padding: 5px 10px;
+    border: solid 2px yellow;
+    background-color: black;
+    color: yellow;
+    cursor: pointer;
+}
